@@ -75,10 +75,10 @@ section.hero {
 
       &.shadow{
         box-shadow:
-         0 2px 5px rgb(0 0 0 / .1),
-         0 9px 9px rgb(0 0 0 / .89),
-         0 20px 20px rgb(0 0 0 / .85),
-         0 36px 15px rgb(0 0 0 / .81),
+          0 2px 5px rgb(0 0 0 / .1),
+          0 9px 9px rgb(0 0 0 / .89),
+          0 20px 20px rgb(0 0 0 / .85),
+          0 36px 15px rgb(0 0 0 / .81),
          ;
 
       }
